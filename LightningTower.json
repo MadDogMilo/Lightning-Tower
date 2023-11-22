@@ -1,0 +1,11 @@
+{
+    "name": "Lightning Tower",
+    "description": "Shoots chains of lightning to multiple bloons within a certain range.",
+    "cost": 200,
+    "range": 150,
+    "attackSpeed": 7,
+    "damage": 50,
+    "sprite": "LightningTower.png",
+    "attackAnimation": "LightningTowerAttack.png",
+    "attackSound": "LightningTowerSound.wav"
+}
